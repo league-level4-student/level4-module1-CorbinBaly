@@ -21,6 +21,10 @@ public class SwitchStatementDemo {
 		}
 		
 		{
+			/*
+			 *  Remove the 'break;' statements and run it again.
+			 *  What did you notice? What does 'break;' do?
+			 */
 			int x = new Random().nextInt(3);
 			switch(x) {
 			case 0: 
