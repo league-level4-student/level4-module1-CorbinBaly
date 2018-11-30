@@ -67,7 +67,7 @@ public class Snake {
 	}
 
 	public boolean isOutOfBounds() {
-		//1. complete the method so it returns true if the head of the snake is outsize of the window
+		//1. complete the method so it returns true if the head of the snake is outside of the window
 		//   and false otherwise
 		
 		return false;
